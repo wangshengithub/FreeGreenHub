@@ -2,7 +2,7 @@
 # FreeGreenHub
 获取 GreenHub 许可证。
 
-## 获取到的 GreenHub 许可证 （2026-10-24 09:02 （UTC时间）更新）
+## 获取到的 GreenHub 许可证 （2026-10-24 13:30 （UTC时间）更新）
 ```
 No license code
 No license code
